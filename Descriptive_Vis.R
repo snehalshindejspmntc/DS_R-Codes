@@ -64,14 +64,6 @@ boxplot(airquality$Solar.R)
 boxplot(airquality[,0:4], main='Multiple Box plots')
 
 
-##Home work
-e_quakes<-datasets::quakes
-sd(airquality$Ozone,na.rm = T)
-
-#var
-#skewness
-#kurtosis
-#Density plot
 
 
 
